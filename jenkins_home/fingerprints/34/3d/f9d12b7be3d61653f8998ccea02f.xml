@@ -1,0 +1,60 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-07 14:21:09.94 UTC</timestamp>
+  <original>
+    <name>calculate</name>
+    <number>4</number>
+  </original>
+  <md5sum>343df9d12b7be3d61653f8998ccea02f</md5sum>
+  <fileName>Docker image sha256:343df9d12b7be3d61653f8998ccea02f91f302a13e555fbeb26bfc7310931b39</fileName>
+  <usages/>
+  <facets>
+    <org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet plugin="docker-commons@1.13">
+      <timestamp>1546870869098</timestamp>
+      <imageId>sha256:343df9d12b7be3d61653f8998ccea02f91f302a13e555fbeb26bfc7310931b39</imageId>
+      <usages>
+        <entry>
+          <string>calculate</string>
+          <ranges>4-7,14</ranges>
+        </entry>
+      </usages>
+      <records class="java.util.concurrent.CopyOnWriteArrayList">
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>94bd123119db</host>
+          <containerId>94bd123119db8c77b742e21eca08f3b81c4b18a2513677512b648d63c21f434b</containerId>
+          <containerName>/dazzling_dubinsky</containerName>
+          <created>1546870864000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>528122949dc1</host>
+          <containerId>528122949dc14ce65b0f0248ceb74dce37dd4102293a1bd5e13cec20fd04b6d7</containerId>
+          <containerName>/angry_sammet</containerName>
+          <created>1546871099000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>d4cecf078725</host>
+          <containerId>d4cecf0787253cacec0e2a8e5e0e713ab289412cc344695b5c026e54a8cbc047</containerId>
+          <containerName>/jovial_dewdney</containerName>
+          <created>1546871859000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>af4bfd99e883</host>
+          <containerId>af4bfd99e8838c19ceddd3b60154fe10009eac9b4cbde52507abd689c11c0db8</containerId>
+          <containerName>/wonderful_kilby</containerName>
+          <created>1546872523000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>da5b52420d8f</host>
+          <containerId>da5b52420d8f76282869d581900bc228d6297dda40fd9bea485f9c0c3a4df19b</containerId>
+          <containerName>/thirsty_ganguly</containerName>
+          <created>1546873216000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+      </records>
+    </org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet>
+  </facets>
+</fingerprint>

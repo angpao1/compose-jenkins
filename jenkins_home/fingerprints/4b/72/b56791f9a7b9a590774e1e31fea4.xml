@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-07 14:19:24.509 UTC</timestamp>
+  <original>
+    <name>calculate</name>
+    <number>3</number>
+  </original>
+  <md5sum>4b72b56791f9a7b9a590774e1e31fea4</md5sum>
+  <fileName>Docker image sha256:4b72b56791f9a7b9a590774e1e31fea46e9805d18a51aeb9190092d5cc0ba5ee</fileName>
+  <usages/>
+  <facets>
+    <org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet plugin="docker-commons@1.13">
+      <timestamp>1546870764519</timestamp>
+      <imageId>sha256:4b72b56791f9a7b9a590774e1e31fea46e9805d18a51aeb9190092d5cc0ba5ee</imageId>
+      <usages>
+        <entry>
+          <string>calculate</string>
+          <ranges>3</ranges>
+        </entry>
+      </usages>
+      <records class="java.util.concurrent.CopyOnWriteArrayList">
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>a32b351a2850</host>
+          <containerId>a32b351a2850db5e488522bd2fe456c0356641ed7ed38b6a25d96b705b147e26</containerId>
+          <containerName>/thirsty_ramanujan</containerName>
+          <created>1546870762000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+      </records>
+    </org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet>
+  </facets>
+</fingerprint>
